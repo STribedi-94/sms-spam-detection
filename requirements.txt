@@ -1,6 +1,5 @@
 streamlit
 nltk
-punkt
 scikit-learn
 gunicorn
 scipy
