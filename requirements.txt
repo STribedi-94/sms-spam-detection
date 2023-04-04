@@ -3,3 +3,7 @@ nltk
 scikit-learn
 gunicorn
 scipy
+seaborn
+matplotlib
+xgboost
+wordcloud
