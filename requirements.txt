@@ -1,6 +1,6 @@
 streamlit
 nltk
-nltk.download('punkt')
+punkt
 scikit-learn
 gunicorn
 scipy
