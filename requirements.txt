@@ -2,3 +2,4 @@ streamlit
 nltk
 scikit-learn
 gunicorn
+scipy
